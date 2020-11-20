@@ -1,3 +1,3 @@
 # ReactTodos
 
-The classic learning project  ̅ \_(ツ)_/ ̅
+The classic learning project.
