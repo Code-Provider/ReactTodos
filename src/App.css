@@ -4,21 +4,39 @@
 }
 
 .Todo{
-  margin-top : 10% ; 
+
   display: block;
-  color : white ; 
+  color : black ; 
 
 }
 
 input{
-  color : rgb(117, 23, 23)05, 105, 105) ; 
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace ;
   padding : 1rem ;
-  font-size:18px;
+  font-size : 18px ;
 }
 
 #title{
   font-size: 30px;
-  color : rgb(255, 255, 255) ; 
+  color :black ; 
+
+}
+
+.boxheader{
+  display: flexbox; 
+  
+
+}
+
+.box {
+  margin-top : 2.5rem ; 
+
+}
+
+button {
+  padding : 20px ; 
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+
+
 }
